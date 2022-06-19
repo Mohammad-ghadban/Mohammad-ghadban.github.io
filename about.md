@@ -21,4 +21,4 @@ learning what I miss, asking quistions and finding solutions will improve my kno
 
 ### Contact
 
-You can reach me on my [Email](Mohammad.al.ghadban0@gmail.com). Follow me on [LinkedIn](https://www.linkedin.com/in/mohammad-alghadban/).
+You can reach me on my <Mohammad.al.ghadban0@gmail.com>. Follow me on [LinkedIn](https://www.linkedin.com/in/mohammad-alghadban/).
