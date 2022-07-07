@@ -12,15 +12,10 @@ Popular Developer Resources:
 
 ### MDN Web Docs:
 * [W3](https://developer.mozilla.org/en-US/)
-
 * [CSS-Tricks](https://www.w3.org/TR/CSS2/selector.html)
-
 * [DEV Community](https://css-tricks.com/)
-
 * [Stack Overflow](https://dev.to/)
-
 * [Can I use](https://stackoverflow.com/)
-
 * [Codecademy Workspaces](https://www.codecademy.com/workspaces/new)
 
 ### (Optional) Recommended Books
