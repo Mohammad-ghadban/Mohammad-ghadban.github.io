@@ -2,8 +2,8 @@
 layout: post
 title: FLex Box part 1
 subtitle: FLex Box
-categories: markdown
-tags: [FLex Box]
+categories: Css
+tags: [FLex-Box CSS]
 ---
 
 
