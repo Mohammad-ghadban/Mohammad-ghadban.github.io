@@ -2,7 +2,7 @@
 layout: post
 title: Resources and Books
 subtitle: Resources and Books for Fullstack
-categories: markdown
+categories: Markdown
 tags: [guide, Resources, Q&A]
 ---
 
