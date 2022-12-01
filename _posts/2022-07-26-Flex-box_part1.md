@@ -2,7 +2,7 @@
 layout: post
 title: FLex Box part 1
 subtitle: FLex Box
-categories: Css
+categories: CSS
 tags: [FLex-Box CSS]
 ---
 
