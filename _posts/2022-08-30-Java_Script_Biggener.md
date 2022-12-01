@@ -2,7 +2,8 @@
 layout: post
 title: JavaScript Part 1
 subtitle: JavaScript Beginner
-categories: JavaScript
+categories: Toturial
+subcategories: JavaScript
 tags: [JavaScript]
 ---
 
